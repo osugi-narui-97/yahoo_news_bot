@@ -1,0 +1,2 @@
+# yahoo_news_bot
+Yahooのトップ3記事を教えてくれるLineBotです。スクレイピングを利用しました。
